@@ -1,0 +1,12 @@
+.sampul{
+	width: 85px;
+}
+
+/*ketengahkan tulisan dalam table*/
+.table > tbody > tr > *{
+	vertical-align: middle;
+}
+
+.quote{
+	font-style: italic;
+}
